@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nuxt.js, Jest.js, TypeScript & Three.js**
 
-- 💬 Ask me about **Vue.js, Vuetify, Javascript, CSS**
+- 💬 Ask me about **Vue.js, Vuetify, Javascript & CSS**
 
 - 📫 How to reach me **me@kevinfabre.com**
 
