@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinfabre" alt="kevinfabre" /> </p>
 
-- 🔭 I’m currently working on [Gemmici](www.gemmici.com) and [Dev & Go](https://www.devngo.fr/)
+- 🔭 I’m currently working on [Gemmici](https://www.gemmici.com) and [Dev & Go](https://www.devngo.fr/)
 
 - 🌱 I’m currently learning **Nuxt.js, Jest.js, TypeScript & Three.js**
 
