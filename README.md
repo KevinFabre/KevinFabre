@@ -2,13 +2,15 @@
 <h3 align="center">A passionate freelance frontend developer from France</h3>
 
 
-- 🔭 I’m currently working on [Gemmici](https://www.gemmici.com) and [Dev & Go](https://www.devngo.fr/)
+- 🔭 I’m currently working on [Gemmici](https://www.gemmici.com) and [Socotec.io](https://www.socotec.fr/)
 
-- 🌱 I’m currently learning **Nuxt.js, Jest.js, TypeScript & Three.js**
+- 🌱 I’m currently learning **Nuxt.js, TypeScript & Three.js**
 
 - 💬 Ask me about **Vue.js, Vuetify, Javascript & CSS**
 
 - 📫 How to reach me **me@kevinfabre.com**
+
+- See my Notion page for more information about my work: <a href="https://www.kevinfabre.com" target="blank">www.kevinfabre.com</a>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -16,27 +18,3 @@
 <a href="https://linkedin.com/in/kevin-fabre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevin-fabre" height="30" width="40" /></a>
 <a href="https://instagram.com/kevin.gemmici" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kevin.gemmici" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-</p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfabre&layout=compact" alt="kevinfabre" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfabre&show_icons=true" alt="kevinfabre" /></p>
-
