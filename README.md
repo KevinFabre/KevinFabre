@@ -2,7 +2,7 @@
 <h3 align="center">A passionate freelance frontend developer from France</h3>
 
 
-- 🔭 I’m currently working on [Gemmici](https://www.gemmici.com) and [Socotec.io](https://www.socotec.fr/)
+- 🔭 I’m currently working on [Gemmici](https://www.gemmici.com) and [Genymotion](https://www.genymotion.com/)
 
 - 🌱 I’m currently learning **Nuxt.js, TypeScript & Three.js**
 
