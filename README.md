@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from France</h3>
 
 
-- 🔭 I’m currently working at [OpenDataSoft](https://www.opendatasoft.com) ([@KevinFabre-ods](https://github.com/KevinFabre-ods)). I worked on [Gemmici](https://www.gemmici.com) & for [Genymotion](https://www.genymotion.com/)
+- 🔭 I’m currently working at [Huwise](https://www.huwise.com) ([@KevinFabre-ods](https://github.com/KevinFabre-ods))
 
-- 🧪 Some of my side projects: [twitch-replay](https://www.twitch-replay.com/) & [laterredumilieu.com](https://www.laterredumilieu.com/)
+- 🧪 Some of my side projects: [twitch-replay sync VODs](https://sync.kevinfabre.com/) & [laterredumilieu.com](https://www.laterredumilieu.com/)
 
-- 💬 Ask me about **Vue.js, Vuetify, React, Typescript & Javascript**
+- 💬 Ask me about **Web development, IA and home automation**
 
 - 📫 How to reach me **me@kevinfabre.com**
 
